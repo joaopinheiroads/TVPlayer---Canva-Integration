@@ -1,0 +1,84 @@
+[
+  {
+    "ContainingType": "CanvaAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CanvaAPI.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CanvaAPI.Controllers.AuthController",
+    "Method": "VerifyToken",
+    "RelativePath": "api/Auth/verify",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CanvaAPI.Controllers.UploadController",
+    "Method": "Upload",
+    "RelativePath": "api/Upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CanvaAPI.Controllers.UploadController",
+    "Method": "ListUploads",
+    "RelativePath": "api/Upload",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CanvaAPI.Controllers.UploadController",
+    "Method": "DeleteUpload",
+    "RelativePath": "api/Upload/{filename}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filename",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CanvaAPI.Controllers.UploadController",
+    "Method": "Health",
+    "RelativePath": "api/Upload/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CanvaAPI.Controllers.UploadController",
+    "Method": "UploadMetadata",
+    "RelativePath": "api/Upload/metadata",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

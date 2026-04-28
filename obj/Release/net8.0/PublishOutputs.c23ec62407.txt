@@ -1,0 +1,11 @@
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\CanvaAPI.exe
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\CanvaAPI.dll
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\CanvaAPI.deps.json
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\CanvaAPI.runtimeconfig.json
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\CanvaAPI.pdb
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\doutg\OneDrive\Desktop\Canva\canva-apps-sdk-starter-kit\Canva.API\CanvaAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
