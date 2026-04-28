@@ -3,7 +3,7 @@ import { Button, Rows, Text, TextInput, Title, FormField} from "@canva/app-ui-ki
 import * as styles from "styles/components.css";
 import { requestExport, getDesignMetadata } from "@canva/design";
 
-const API_BASE_URL = "https://localhost:7287/api";
+const API_BASE_URL = "https://191.6.5.106:44909/canva.api/api";
 
 type User = {
   id: string;
